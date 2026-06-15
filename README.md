@@ -57,6 +57,6 @@ To successfully run this project, ensure you have the following installed:
 Open the notebooks in order to reproduce the pipeline:
  
 ```bash
-jupyter notebook notebooks/Delta-hedging.ipynb
+jupyter notebook notebooks/Call_Up&Out_Pricing_Monte_Carlo.ipynb
 ```
 
