@@ -1,5 +1,5 @@
 
-# Call UP & Out Pricing
+# Call Up & Out Pricing
 
 Welcome to the Call UP & Out Pricing project ! This initiative aims to price a **Call Up & Out** using the **Monte Carlo method**. 
 
