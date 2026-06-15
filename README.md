@@ -17,6 +17,11 @@ Welcome to the Call UP & Out Pricing project ! This initiative aims to price a *
 💶 Risk-free Interest Rate: **r = 2%**<br>
 📈 Underlying asset at t = 0: $S_0$ = 100 $ 
 
+# Simulating Trajectories of the Underlying Asset
+
+<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/0164dafd-b830-461a-919b-514975b52f22" />
+
+
 
 
 # 📊 Pricing results
